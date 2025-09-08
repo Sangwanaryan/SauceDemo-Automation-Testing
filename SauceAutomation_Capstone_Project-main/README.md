@@ -38,16 +38,10 @@ The goal of this capstone project is to build a **robust, end-to-end automated t
 -------
 
 ## 📬 Contact  
-👨‍💻 **Ashutosh Soni**  
-📧 iamashuarya786@gmail.com 
+👨‍💻 **Aryan**  
+📧aryansangwan461@gmail.com
 <p align="left">
-  <a href="https://www.linkedin.com/in/beingashusoni/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="h[ttps://www.linkedin.com/in/beingashusoni/](https://www.linkedin.com/in/aryan-83184224a/)" target="_blank">
   </a>
-  <a href="https://github.com/beingashusoni" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-blush-nu-17.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  <a href="[https://github.com/beingashusoni](https://github.com/Sangwanaryan)" target="_blank">
 </p>
